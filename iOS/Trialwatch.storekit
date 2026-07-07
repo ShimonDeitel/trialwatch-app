@@ -1,0 +1,47 @@
+{
+  "identifier": "...",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_applicationInternalID": "0",
+    "_developerTeamID": "W7Q885Q59C",
+    "_failTransactionsEnabled": false,
+    "_locale": "en_US",
+    "_storefront": "USA",
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "Trialwatch Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "1001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Multiple reminder tiers and cancel-link notes per trial",
+              "displayName": "Trialwatch Pro Monthly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "trialwatch.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Trialwatch Pro Monthly",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
